@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Where’s Fab
 locale:           en_US
-url:              
+# url:              
 
 
 # Jekyll configuration
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  name: Fabian R Lischka
+  avatar: Fab-Zeche-Zollverein.jpg
+  bio: "Buenos Aires, Moers, Karlsruhe, Warwick, London, Palo Alto, Hong Kong; Goldman, Credit Suisse, HackerSchool, metric system, The Economist."
+  email: info-web@fabian-lischka.de
+#  disqus-shortname: 
   twitter: #username
-  facebook: #username
+  facebook: fabian.lischka
   google:
     plus: #username
     analytics: 
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: fabianlischka
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: fabianlischka
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -54,6 +54,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
+  keybase: fab
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: [“old”,”lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

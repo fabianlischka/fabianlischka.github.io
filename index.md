@@ -1,9 +1,9 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Homepage for Fabian R Lischka"
+tags: [personal, homepage]
 image:
-  feature: sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: vegas-planes-fx-1920.jpg
+  credit: Tobias Lischka
+  creditlink: https://de.linkedin.com/pub/tobias-lischka/1/bb9/882/en
 ---

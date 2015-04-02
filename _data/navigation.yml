@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: /p-about/
 
-- title: Sample Posts
-  url: /posts/
+- title: Blog
+  url: /p-blog/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Travel
+  url: /p-travel/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: InfoSec101
+  url: https://fabianlischka.github.io/InfoSec101

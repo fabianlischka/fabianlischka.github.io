@@ -27,8 +27,8 @@ My interests are not confined to [STEM matters](https://en.wikipedia.org/wiki/ST
 
 ## Education
 
-* Industrial Engineering (["Wirtschaftsingenieurwesen"](http://www.kit.edu/downloads/Sonstige/Wiin_UnD.pdf)), Diplom, [Karlsruhe, Germany](http://www.kit.edu)
-* [Financial Maths](http://www.wbs.ac.uk/courses/postgraduate/financial-mathematics/), MSc, [Warwick, UK](https://www.warwick.ac.uk)
+* Industrial Engineering (["Wirtschaftsingenieurwesen"](http://www.kit.edu/downloads/Sonstige/Wiin_UnD.pdf)), Diplom, [Karlsruhe, Germany](http://www.kit.edu). [Thesis](http://www.fabian-lischka.de/CAPM.pdf) (in German, PDF, 936 kB) on the Capital Asset Pricing Model and its Time Continuous Extension.
+* [Financial Maths](http://www.wbs.ac.uk/courses/postgraduate/financial-mathematics/), MSc, [Warwick, UK](https://www.warwick.ac.uk). [Thesis](http://www.defaultrisk.com/pp_price_20.htm) on on Convertible bonds with credit risk (with [Mark Davis](http://www.imperial.ac.uk/people/mark.davis)), published in [Applied Probability](http://www.ams.org/bookstore?s3=0-8218-3191-7&quicksearch.x=0&quicksearch.y=0&subject=genint&pg1=&s1=&op1=ADJ&co1=AND&pg2=&s2=&op2=ADJ&co2=AND&op3=ADJ&co3=AND&pg3=ALLF&fn=100&d=BOOK&p=1&u=&r=0&l=100&f=S), eds. R. Chan, Y-K. Kwok, D. Yao and Q. Zhang, ISBN: 0-8218-3191-7, pp 45-58.
 * [Scientific Computing and Computational Mathematics](http://icme.stanford.edu), MS, [Stanford, CA](https://www.stanford.edu)
 * [Hacker School](https://www.hackerschool.com), New York, NY
 * [Statistics, Graduate Diploma](http://www.hkss.org.hk/Exam/Exam.htm), [Hong Kong Statistical Society, HK](http://www.hkss.org.hk)

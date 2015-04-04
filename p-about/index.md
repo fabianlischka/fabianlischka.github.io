@@ -21,6 +21,7 @@ My interests are not confined to [STEM matters](https://en.wikipedia.org/wiki/ST
 * skepticism
 * liberty
 * atheism
+* [information security and privacy](https://fabianlischka.github.io/InfoSec101)
 * The Economist
 * the metric system
 * pinball machines, red wine, chocolate, fragrances, food, etc. etc.

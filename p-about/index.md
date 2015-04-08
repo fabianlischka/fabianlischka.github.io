@@ -41,4 +41,4 @@ The image above was taken in Las Vegas in August 2010. On the right is N6074F, a
 
 On the left is N182VE, aka "Lucky Lady too", a Cessna 182, which [Bob Gannon is flying around the world](http://www.worldflyingadventure.com/home.htm). I met Bob there briefly. Inspiring guy!
 
-I've flown Cessnas in the US (AZ, CA, CT, FL, GA, IL, IN, NY, TN, WI; around the Statue of Liberty, and landings at Oshkosh and Chicago O'Hare), and in Australia, Cambodia, CMNI (Commonwealth of Northern Mariana Islands), Germany, Guam, Hong Kong, Kenya, Namibia, Nicaragua, Philippines, South Africa, Thailand, and the United Kingdom. 
+I've flown Cessnas in the US (AZ, CA, CT, FL, GA, IL, IN, NY, TN, WI; around the Statue of Liberty, and from Oshkosh to Chicago O'Hare), and in Australia, Cambodia, CMNI (Commonwealth of Northern Mariana Islands), Germany, Guam, Hong Kong, Kenya, Namibia, Nicaragua, Philippines, South Africa, Thailand, and the United Kingdom. 
